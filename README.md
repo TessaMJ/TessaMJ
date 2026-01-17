@@ -16,6 +16,6 @@ This program is commonly used as an introduction to Java programming. It helps i
 - How to print output to the console
 
 ## Output
-HELLO WORLD
+Hello, World
 
 
