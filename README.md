@@ -18,4 +18,33 @@ This program is commonly used as an introduction to Java programming. It helps i
 ## Output
 Hello, World
 
+# Java ArrayList Sorting Program
 
+## Description
+This Java program demonstrates how to store numbers in an ArrayList, sort them in ascending order, and display the sorted result. It uses built-in Java utilities to manage and organize data efficiently.
+
+## Program Overview
+The program performs the following operations:
+- Creates an ArrayList to store integer values
+- Adds multiple numbers to the list
+- Sorts the list using the Collections.sort() method
+- Prints each sorted number to the console using a loop
+
+## Key Concepts Used
+- ArrayList from java.util
+- Collections class for sorting
+- Enhanced for loop for iteration
+
+## Purpose
+This program helps in understanding:
+- How to use ArrayList in Java
+- How to sort data using Collections.sort()
+- How to iterate through a collection and print values
+
+## Output
+8  
+12  
+15  
+20  
+33  
+34  
