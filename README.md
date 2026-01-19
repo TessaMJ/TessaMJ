@@ -50,7 +50,7 @@ This program helps in understanding:
 34  
 
 
-# Java LinkedList Example Program
+# Java LinkedList Program
 
 ## Description
 This Java program demonstrates the use of a LinkedList to store and manage string elements. It shows how to add elements at specific positions and how to traverse the list using different looping techniques.
