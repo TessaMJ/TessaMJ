@@ -109,3 +109,30 @@ This program helps in understanding:
 3  
 2   
 1  
+
+# Java Queue Program
+
+## Description
+This Java program demonstrates how a Queue stores and manages string elements. The elements are automatically arranged based on their natural alphabetical order.
+
+## Program Overview
+The program performs the following actions:
+- Creates a Queue of String values
+- Inserts elements into the queue
+- Displays the contents of the queue
+
+## Key Concepts Used
+- Queue class from java.util
+- Queue interface
+- add() method for inserting elements
+- Natural ordering of String elements
+- Automatic sorting mechanism
+
+## Purpose
+This program helps in understanding:
+- How Queue works internally
+- How elements are ordered in a queue
+- Basic operations performed on a queue 
+
+## Output
+[Java, Programming]
